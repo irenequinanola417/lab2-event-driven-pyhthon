@@ -1,3 +1,5 @@
+print("Welcome to Lab 2 Event-Driven App")
+
 import json
 import os
 
